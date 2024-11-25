@@ -1,4 +1,4 @@
-### Hybrid Audience Measurement and Media Analytics Platform
+# Hybrid Audience Measurement and Media Analytics Platform
 
 ## Overview
 This project focuses on building a machine learning-based system to integrate panel-based and census-level data for audience measurement. The dataset provided simulates real-world conditions with demographic, behavioral, and engagement metrics for analysis and modeling.
@@ -38,6 +38,6 @@ Evaluation: Use metrics like accuracy, precision, recall, and AUC for performanc
 Synthetic_Hybrid_Audience_Data.csv: The synthetic dataset.
 README_Hybrid_Audience_Measurement_Project.md: This documentation.
 
-# Notes
+## Notes
 This project is suitable for practicing real-world data preprocessing and developing machine learning pipelines. It aims to provide insights into audience behavior across platforms and optimize ad performance.
 
